@@ -1,0 +1,91 @@
+nav{  
+    list-style-type: none;
+    }
+    body{
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    header{
+        margin:0 0 50px;
+        text-align:center;
+        
+    
+        }
+        .class_p1{
+                 
+                    border-style: solid;
+                    border-color:black;
+                    border-width: 3px;
+                    height: 100px;
+                    box-sizing:border-box;
+                    padding: 10px;
+                    width: 40%;
+                    position:absolute;
+                    top:80px;
+                    right:15px;
+                    color:rgb(64, 64, 64);
+                    margin: 0;
+                    padding:0;
+                  
+                    
+                   
+                    
+            }
+        .class_p2{
+            width: 40%;
+        }
+        .class_p3{
+            box-sizing:border-box;
+            float:right; 
+            
+        }
+        .class_p4{
+            position:absolute;
+            top:40px;
+            right:255px;
+            
+        }
+        .class_p5{
+            position:relative;
+            left:200px
+        }
+        .class_p6{
+            text-decoration: none;
+            color:rgb(28, 0, 100);
+    
+        }
+        figcaption {
+            float: right; 
+            padding: 7px; 
+            position: absolute;
+            right: 0px;
+            bottom: -135px;
+           }
+           footer {
+            font-size:30px;
+            text-align: center;
+            background-color:rgb(100, 139, 0);
+            color:rgb(163, 208, 73);
+            }
+            
+           html{
+            background-color:rgb(218, 218, 210);
+           }
+          
+           nav a {
+            line-height: 2em;
+            font-weight:bold;
+            text-align: left;
+            
+           }
+           h1{ background-color:rgb(163, 208, 73); 
+           }
+           h2{color:rgb(163, 208, 73);}
+           h4{color:rgb(163, 208, 73);}
+           ul{margin: 0;
+              padding: 0;
+           }
+           .class_p6:hover{
+            color:rgb(163, 208, 73);
+        
+           }
+    
